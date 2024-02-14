@@ -34,3 +34,7 @@ li {
     margin: 10px 0;
     cursor: pointer;
 }
+
+.concluida {
+    text-decoration: line-through;
+  }
